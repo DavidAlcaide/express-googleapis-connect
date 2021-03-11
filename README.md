@@ -2,7 +2,7 @@
 ## _Establish connection with some Google Services trough their APIs_
 
 ## Getting token
-The proccess to get a valid token to work with the different Google APIs consist on the followinfg steps:
+The proccess to get a valid token to work with the different Google APIs consist on the following steps:
 1. Create a new project from the Google Developers console.
 2. Turn on as many APIs as you need from the panel section.
 3. In resulting dialog click DOWNLOAD CLIENT CONFIGURATION and save the file credentials.json to your working directory.
